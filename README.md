@@ -35,7 +35,7 @@ Futurescape is still evolving and here are the available UI components :
   <li>Wells</li>
   <li>Panels</li>
   <li>Navigation Band with examples.</li>
-  <ol>
+  </ol>
 
 <h2>What Futurescape is NOT?</h2>
 Futurescape is not theme or brand guideline. It is a collection of UI components that look well together and have been  designed keeping real-world applications in mind .
