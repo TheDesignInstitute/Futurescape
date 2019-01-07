@@ -1,6 +1,6 @@
 
 <h1>What is Futurescape?</h1>
-Futurescape is a collection of UI components designed with precision and with real aestetics in mind. 
+Futurescape is a collection of UI components designed with precision and with real aesthetics in mind. 
 It has been designed in sketch and comes with UI-specs for developers.
 Default artboard size is A4 size to allow printing for all corporate designers who require to file everything or seek approval of higher authorities. 
 
