@@ -1,4 +1,4 @@
-
+<img src="https://github.com/TheDesignInstitute/Futurescape/blob/master/theme_background.png?raw=true" alt="TDi Futurescape Banner">
 <h1>What is Futurescape?</h1>
 Futurescape is a collection of UI components designed with precision and with real aesthetics in mind. 
 It has been designed in sketch and comes with UI-specs for developers.
